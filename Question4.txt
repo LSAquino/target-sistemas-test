@@ -1,0 +1,5 @@
+Eu ligaria o primeiro interruptor, esperaria um tempo e depois desligaria, e aí ligaria o segundo interruptor e iria olhar as lâmpadas.
+
+Se a primeira lâmpada estivesse acesa, eu saberia que ela corresponde ao segundo interruptor, caso esteja apagada e quente, eu saberia que está relacionada ao primeiro interruptor, e caso esteja fria, corresponderia ao terceiro interruptor.
+
+E seguindo essa lógica, após determinar qual interruptor corresponde a primeira lâmpada, eu verificaria a próxima lâmpada e a partir dela descobriria as 3.
